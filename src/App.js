@@ -113,7 +113,7 @@ const App = () => {
        <Routes>
          {/* Define routes for different pages */}
          <Route path="/totalitycorp-frontend-challenge/" element={<Home products={products} addToCart={addToCart} />} />
-         <Route path="/totalitycorp-frontend-challenge/CartList" element={<CartList Cart={cart} />} />
+         <Route path="/totalitycorp-frontend-challenge/CartList/" element={<CartList Cart={cart} />} />
        </Routes>
        {/* Render the Footer component */}
        <Footer />

@@ -9,7 +9,7 @@ function NavBar({ count }) {
     <Navbar bg="light" variant="light" expand="lg" sticky="top">
       <Container fluid>
         {/* Create a Navbar Brand with a link to the home page */}
-        <Navbar.Brand as={Link} to="/">
+        <Navbar.Brand as={Link} to="/totalitycorp-frontend-challenge/">
           <img src={logo} height={30} alt="logo" />
         </Navbar.Brand>
         {/* Create a Navbar Toggle button for mobile view */}
@@ -18,15 +18,13 @@ function NavBar({ count }) {
           {/* Create a navigation menu */}
           <Nav className="m-auto my-2 my-lg-0" style={{ maxHeight: '100px' }} navbarScroll>
             {/* Create a link to the Home page */}
-            <Nav.Link as={Link} active to="/">
+            <Nav.Link as={Link} active to="/totalitycorp-frontend-challenge/">
               <strong>Home</strong>
             </Nav.Link>
           </Nav>
           {/* Create a link to the CartList page with a cart icon and badge */}
-          <Nav.Link as={Link} to="/CartList">
+          <Nav.Link as={Link} to="/totalitycorp-frontend-challenge/CartList/">
             <Button
-              as={Link}
-              to="/CartList"
               className="m-auto"
               variant="outline-dark"
             >

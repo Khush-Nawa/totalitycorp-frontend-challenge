@@ -112,8 +112,8 @@ const App = () => {
        <Navbar count={cart.length} />
        <Routes>
          {/* Define routes for different pages */}
-         <Route path="/" element={<Home products={products} addToCart={addToCart} />} />
-         <Route path="/CartList" element={<CartList Cart={cart} />} />
+         <Route path="/totalitycorp-frontend-challenge/" element={<Home products={products} addToCart={addToCart} />} />
+         <Route path="/totalitycorp-frontend-challenge/CartList" element={<CartList Cart={cart} />} />
        </Routes>
        {/* Render the Footer component */}
        <Footer />

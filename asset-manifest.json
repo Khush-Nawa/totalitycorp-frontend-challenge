@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/totalitycorp-frontend-challenge/static/css/main.003b18b1.css",
-    "main.js": "/totalitycorp-frontend-challenge/static/js/main.ab3f1911.js",
+    "main.js": "/totalitycorp-frontend-challenge/static/js/main.4547bdb2.js",
     "static/js/787.2f6ff60e.chunk.js": "/totalitycorp-frontend-challenge/static/js/787.2f6ff60e.chunk.js",
     "static/media/bootstrap-icons.woff?": "/totalitycorp-frontend-challenge/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
     "static/media/bootstrap-icons.woff2?": "/totalitycorp-frontend-challenge/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
     "static/media/logo.png": "/totalitycorp-frontend-challenge/static/media/logo.8deb97ec5fe5e56e996b.png",
     "index.html": "/totalitycorp-frontend-challenge/index.html",
     "main.003b18b1.css.map": "/totalitycorp-frontend-challenge/static/css/main.003b18b1.css.map",
-    "main.ab3f1911.js.map": "/totalitycorp-frontend-challenge/static/js/main.ab3f1911.js.map",
+    "main.4547bdb2.js.map": "/totalitycorp-frontend-challenge/static/js/main.4547bdb2.js.map",
     "787.2f6ff60e.chunk.js.map": "/totalitycorp-frontend-challenge/static/js/787.2f6ff60e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.003b18b1.css",
-    "static/js/main.ab3f1911.js"
+    "static/js/main.4547bdb2.js"
   ]
 }
